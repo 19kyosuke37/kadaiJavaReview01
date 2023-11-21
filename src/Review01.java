@@ -21,7 +21,7 @@ public class Review01 {
 
     public static int tax (int cost) {
 
-        int result = ((int)(cost*0.1));
+        int result = (int)(cost*0.1);
         return result;
 
     }
